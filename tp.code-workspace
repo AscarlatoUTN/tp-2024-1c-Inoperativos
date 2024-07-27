@@ -1,0 +1,43 @@
+{
+	"settings": {
+		"debug.onTaskErrors": "abort",
+		"files.associations": {
+			"*.h": "c",
+			"cstdlib": "c",
+			"functional": "c",
+			"array": "c",
+			"deque": "c",
+			"string": "c",
+			"unordered_map": "c",
+			"vector": "c",
+			"string_view": "c",
+			"initializer_list": "c",
+			"utility": "c",
+			"cmath": "c",
+			"type_traits": "c"
+		},
+		"C_Cpp.errorSquiggles": "disabled",
+	},
+	"folders": [
+		{
+			"name": "KERNEL",
+			"path": "KERNEL"
+		},
+		{
+			"name": "CPU",
+			"path": "CPU"
+		},
+		{
+			"name": "MEMORIA",
+			"path": "MEMORIA"
+		},
+		{
+			"name": "IO",
+			"path": "IO"
+		},
+		{
+			"name": "SHARED",
+			"path": "SHARED"
+		}
+	]
+}

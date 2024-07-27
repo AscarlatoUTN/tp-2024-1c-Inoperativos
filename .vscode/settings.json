@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "server_monoh.h": "c",
+        "server_multih.h": "c",
+        "typeinfo": "c",
+        "cstdlib": "c",
+        "netdb.h": "c",
+        "socket.h": "c",
+        "types.h": "c",
+        "log.h": "c",
+        "serv_sockets.h": "c"
+    }
+}
