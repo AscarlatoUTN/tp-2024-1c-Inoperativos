@@ -1,21 +1,3 @@
-## TOKENS DEL GRUPO
-
-**ALE** 
-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
-    
-**TEI** 
-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
-    
-**ELI** 
-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
-    
-**NATI** 
-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
-    
-**COLO** 
-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
-    
-
 # COMANDOS DEPLOY GENERAL 
 
 #### 1. Conectarse por SSH usando PuTTY. Se debe usar el puerto 22.
@@ -30,21 +12,6 @@ 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
     ./deploy.sh -r=release -p=SHARED -p=MEMORIA -p=CPU -p=KERNEL -p=IO tp-2024-1c-Inoperativos
 
 #### 5. Ingresar el Personal Access Token de GitHub cuando se lo pida
-
-**ALE** 
-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
-    
-**TEI** 
-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
-    
-**ELI** 
-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
-    
-**NATI** 
-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
-    
-**COLO** 
-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
 
 #### 6. Llenar archivos de config con la IP y el Puerto de cada módulo.
 
